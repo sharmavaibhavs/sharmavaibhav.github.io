@@ -1,0 +1,44 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.container {
+  
+  text-align: center;
+  text-decoration-color: white;
+  color: white;
+
+}
+
+button{
+  background-color: orange;
+  border-radius: 20px;
+  
+
+}
+
+hr {
+    margin: 20px auto;
+    color: #F05F44;
+    border: 3px solid #F05F44;
+    max-width: 65px;
+    opacity: 1;  
+}
+.text-center{
+  text-align: center;
+}
+
+.buffer{
+  height: 13rem;
+}
